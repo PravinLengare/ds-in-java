@@ -169,7 +169,7 @@ class DoublyLinked_List{
            return removeFirst();
 
         }
-        if (index == length){
+        if (index == length - 1){
              return removeLast();
         }
         Node temp = get(index);
