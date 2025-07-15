@@ -1,5 +1,4 @@
 package Arrays.MultiDimentional;
-
 import java.util.Scanner;
 
 public class PascalsTriangle {
