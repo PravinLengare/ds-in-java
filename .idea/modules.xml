@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/data_structures/Hash Table/Hash Table.iml" filepath="$PROJECT_DIR$/data_structures/Hash Table/Hash Table.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structures/Tree/Tree.iml" filepath="$PROJECT_DIR$/data_structures/Tree/Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structures/data_structures.iml" filepath="$PROJECT_DIR$/data_structures/data_structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ds-in-java.iml" filepath="$PROJECT_DIR$/.idea/ds-in-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structures/sorting_algorithms/sorting_algorithms.iml" filepath="$PROJECT_DIR$/data_structures/sorting_algorithms/sorting_algorithms.iml" />
     </modules>
   </component>
 </project>
