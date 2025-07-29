@@ -7,9 +7,6 @@ public class MaxOfArray {
         }
         int smallWork = max(arr,idx+1);
         return Math.max(smallWork,arr[idx]);
-//        if (smallWork > arr[0]){
-//
-//        }
     }
     public static void main(String[] args) {
         int arr[] = {1, 5, 7, 9, 4};
