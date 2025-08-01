@@ -12,7 +12,7 @@ public class SubSetSum {
 
     }
     public static void main(String[] args) {
-        int arr[] = {2,4,5};
+        int arr[] = {1,2,3};
         subsetSum(arr,3,0,0);
     }
 }

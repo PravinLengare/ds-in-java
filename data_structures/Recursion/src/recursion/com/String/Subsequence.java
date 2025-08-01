@@ -10,7 +10,7 @@ public class Subsequence {
             ans.add(" ");
             return ans;
         }
-        char curr = s.charAt(0);
+        char curr = s.charAt(0);  // for getting the current character
         // Recursive Work
         ArrayList<String> small = subSeq(s.substring(1));
         // Self Work

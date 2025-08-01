@@ -17,7 +17,7 @@ public class Palindrome {
         }
 
         if(s.charAt(l) == s.charAt(r) && IsPalindrome(s,l+1,r-1)){
-            // System.out.println("Not Palindrome");
+
             return true;
         }
         else {
