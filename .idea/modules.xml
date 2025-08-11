@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/data_structures/Hash Table/Hash Table.iml" filepath="$PROJECT_DIR$/data_structures/Hash Table/Hash Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structures/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/data_structures/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structures/Searching/Searching.iml" filepath="$PROJECT_DIR$/data_structures/Searching/Searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/data_structures/String/String.iml" filepath="$PROJECT_DIR$/data_structures/String/String.iml" />
