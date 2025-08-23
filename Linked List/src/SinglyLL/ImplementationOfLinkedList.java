@@ -58,6 +58,7 @@ public class ImplementationOfLinkedList {
             }
 
         }
+
         public void printLL(){
             Node temp = head;
             while(temp!=null){
@@ -87,5 +88,7 @@ public class ImplementationOfLinkedList {
         System.out.println();
         newLL.printLL();
         newLL.printLL();
+
+
     }
 }

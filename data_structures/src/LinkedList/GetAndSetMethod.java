@@ -164,8 +164,6 @@ class Linked_List1 {
             temp.next = before;
             before = temp;
             temp = after;
-            
-
         }
     }
 }
